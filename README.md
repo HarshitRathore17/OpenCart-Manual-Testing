@@ -4,5 +4,3 @@ The project is based on Agile project management using the JIRA tool to test Ope
 
 - **Methodology**: __Agile-Scrum methodology (Scrum framework)__
 - **Tools Used**: __Jira, Zephyr Scale__
-
-<h2>Final Report:</h2>
